@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Virtual environment
+.myvenv/
+venv/
+env/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Outputs (optional — remove if you want charts on GitHub)
+# outputs/charts/
