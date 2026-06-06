@@ -122,7 +122,13 @@ genz-interest-volatility/
 │       └── chart4_radar.png
 ├── .gitignore
 └── README.md
+___
+### Published Work
 
+| Platform | Link |
+|---|---|
+| Kaggle Notebook | [Gen Z & Alpha Interest Volatility Analysis](https://www.kaggle.com/code/omcaru/gen-z-alpha-interest-volatility-analysis) |
+| Kaggle Dataset | [Gen Z Alpha Interest Volatility Dataset](https://www.kaggle.com/datasets/omcaru/gen-z-alpha-interest-volatility-dataset) |
 ---
 *Dataset constructed from literature estimates. 
 All values sourced and reasoned from public research 
